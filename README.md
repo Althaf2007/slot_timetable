@@ -133,7 +133,7 @@ Execute the program using runserver command.
 </html>
 '''
 ## OUTPUT
-![alt text](<Screenshot 2024-11-17 160500.png>)
+C:\Users\admin\tt\Eligibility-for-Admission\slot_timetable\Screenshot 2024-11-17 160500.png
 
 
 ## RESULT
