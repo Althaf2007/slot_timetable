@@ -31,7 +31,7 @@ Execute the program using runserver command.
 </head> 
 <body> 
 <center> 
-<img src="/static/logo.png" height="100" width="548">
+<img src="logo.png" height="100" width="548">
 </center> 
 <br> 
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan"> 
